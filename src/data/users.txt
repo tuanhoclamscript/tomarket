@@ -1,0 +1,1 @@
+query_id=AAGe7hkyAgAAAJ7uGTJVrRbW&user=%7B%22id%22%3A5135527582%2C%22first_name%22%3A%22Zunest%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22znstkk%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725612182&hash=74a72bcadcbe9dbfaaffef3d1fd1cc00921210411209711ea777fc16a1299d86
